@@ -21,7 +21,7 @@ const RegisterForm = () => {
   return (
     <Card className="w-[370px] max-w-[95%] glass shadow-lg border border-gray-200">
       <CardHeader className="pb-3">
-        <CardTitle className="text-xl font-light text-gray-900 mb-1" role='heading'>Criar Conta</CardTitle>
+        <CardTitle className="text-xl font-light text-gray-900 mb-1" role='heading'>Registrar Conta</CardTitle>
         <CardDescription className="text-gray-500 font-normal">
           Preencha seus dados para começar a usar o banco
         </CardDescription>
